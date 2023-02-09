@@ -1,4 +1,4 @@
-package com;
+package Algo;
 
 // Search for a given element in a specified range
 public class SearchInRange {

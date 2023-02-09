@@ -1,9 +1,9 @@
-package com;
+package Algo;
 
 public class LinearSearch {
 	
 	//This is a linear search
-	static int searach(int[] arr, int element) {
+	static int search(int[] arr, int element) {
 		if (arr.length == 0) {
 			return -1;
 		}
@@ -21,7 +21,7 @@ public class LinearSearch {
 		
 		int[] array = {10,15, 21, 7, 92, 83};
 		
-		int index = searach(array, 21);
+		int index = search(array, 21);
 		System.out.println(index);
 		
 	}

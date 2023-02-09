@@ -1,4 +1,4 @@
-package com;
+package Algo;
 
 public class SearchInString {
 	
